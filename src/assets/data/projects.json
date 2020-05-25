@@ -1,0 +1,26 @@
+[  
+  {
+    "title":"SIMOC",
+    "description": "SIMOC is built to be an educational tool used in the classroom to teach students about what it takes to keep humans alive off-world. Using a combination of real-world data and artificial simulation to create user created scenarios. SIMOC will be published through the National Geographic Society later this year. I was initially part of the original student team, I continued on as part of the team after graduation.",
+    "stack":"Vue.js, Python, Postgres, Docker, AWS",
+    "link":"https://simoc.space/"
+  },
+  {
+    "title":"King Of The Moment (WIP)",
+    "description":"Online Chess client designed to allow for realtime play, and 'Chess By Mail'.", 
+    "stack":"React, React Router, Node.js, Express, Socket.io, AWS, MongoDB, Chess.js",
+    "link":"https://github.com/gschoberth/kotm"
+  },
+  {
+    "title":"Discord Stats Bot",
+    "description":"Created a Discord channel bot to track user stats for the video game Apex Legends. User data is presented as a custom image created using HTML canvas and other images. Node.js, Discord.js, Tracker Network API. Deployed on AWS EC2.",
+    "stack":"Node.js Discord.js, Express, AWS",
+    "link":"https://github.com/gschoberth/discord_bot_apex"
+  },
+  {
+    "title":"Pic-Some App",
+    "description":"This app was a project to create functionality allowing a user to select and add photos to a cart or favorites.",
+    "stack":"JavaScript, React.js, React Router",
+    "link":"https://github.com/gschoberth/pic_some_app"
+  }  
+]
